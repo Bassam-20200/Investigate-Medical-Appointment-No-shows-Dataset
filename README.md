@@ -1,5 +1,3 @@
-# Investigate-Medical-Appointment-No-shows-Dataset
-
 # Investigate-Medical-Appointment-NoShows-Dataset
 Exploratory Data Analysis (EDA) and data visualization project using python
 
